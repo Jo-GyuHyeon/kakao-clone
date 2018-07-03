@@ -15,7 +15,7 @@
   .top-header .header__top,
   .top-header .header__bottom {
     display: flex;
-    justify-content: space-b;
+    justify-content: space-between;
   }
   
   .top-header .header__top {
